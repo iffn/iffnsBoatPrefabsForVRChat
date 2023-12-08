@@ -513,10 +513,6 @@ MonoBehaviour:
   runningSound: {fileID: 6234935263225442204}
   shutdownSound: {fileID: 5588519646152690211}
   linkedPlayerColliderCanBeNull: {fileID: 0}
-  debug: 0
-  velocityDebug: {x: 0, y: 0, z: 0}
-  dragForceDebug: {x: 0, y: 0, z: 0}
-  dragAreaDebug: {x: 0, y: 0, z: 0}
 --- !u!114 &2585725994877696791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1213,22 +1209,22 @@ PrefabInstance:
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.881
+      value: 0.9031
       objectReference: {fileID: 0}
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.116
+      value: 0.1513
       objectReference: {fileID: 0}
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8027118
+      value: 0.9181517
       objectReference: {fileID: 0}
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.5963672
+      value: 0.39622912
       objectReference: {fileID: 0}
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
@@ -1243,7 +1239,7 @@ PrefabInstance:
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 73.22
+      value: 46.685
       objectReference: {fileID: 0}
     - target: {fileID: 3606270817640737349, guid: f3631e5a3bd35c648aa40d639969a56f,
         type: 3}
