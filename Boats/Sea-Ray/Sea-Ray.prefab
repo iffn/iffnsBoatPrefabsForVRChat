@@ -1178,8 +1178,8 @@ Transform:
   m_Children:
   - {fileID: 5251144841703349174}
   - {fileID: 2006488083334006074}
-  - {fileID: 9164241408144901054}
   - {fileID: 1070342355834343512}
+  - {fileID: 9164241408144901054}
   - {fileID: 829851328204770273}
   - {fileID: 5112364953047019732}
   - {fileID: 2807036205835753418}
@@ -1938,8 +1938,8 @@ Transform:
   m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5205939843534512827}
   - {fileID: 3947928676501481415}
+  - {fileID: 5205939843534512827}
   m_Father: {fileID: 2432895634268457462}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5275036276445656005
@@ -2039,7 +2039,8 @@ MonoBehaviour:
   - {fileID: 2847554209132819415}
   linkedInteractionReceiverElements:
   - {fileID: 2415175692334896878}
-  stateChangeMessage: OwnershipButtonPressed
+  interactionStartMessage: OwnershipButtonPressed
+  interactionStopMessage: 
 --- !u!114 &5074896495538285740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2324,7 +2325,8 @@ MonoBehaviour:
   - {fileID: 5390282860072883485}
   linkedInteractionReceiverElements:
   - {fileID: 2415175692334896878}
-  stateChangeMessage: RespawnButtonPressed
+  interactionStartMessage: RespawnButtonPressed
+  interactionStopMessage: 
 --- !u!114 &939553199199841860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2445,7 +2447,8 @@ MonoBehaviour:
   - {fileID: 8131455081869121248}
   linkedInteractionReceiverElements:
   - {fileID: 2415175692334896878}
-  stateChangeMessage: ActivationButtonPressed
+  interactionStartMessage: ActivationButtonPressed
+  interactionStopMessage: 
 --- !u!114 &1686361858378000833
 MonoBehaviour:
   m_ObjectHideFlags: 0
