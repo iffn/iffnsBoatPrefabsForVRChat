@@ -4,11 +4,9 @@ Overview: https://docs.google.com/document/d/1b8hddijxfvMECmnKvso8eCRZDr9nL9c-74
 The assets used forthis system have been refernced in their respective folders.
 
 ## Requirements:
-- iffnsBoatsForVRChat on branch TugSystem: https://github.com/iffn/iffnsBoatsForVRChat
-  - Also requires my Interaction controller: https://github.com/iffn/iffnsBoatsForVRChat/tree/TugSystem
-
+- iffnsBoatsForVRChat https://github.com/iffn/iffnsBoatsForVRChat
 
 ## Current state:
 - Work in progress
 - The Tug System branch is the one I'm mostly working on at the moment but not complete yet.
-  - Also requires my Interaction controller: https://github.com/iffn/iffnsInteractionController
+  - Also requires iffnsBoatsForVRChat on branch TugSystem and its requirments: https://github.com/iffn/iffnsBoatsForVRChat
