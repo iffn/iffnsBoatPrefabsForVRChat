@@ -5,6 +5,7 @@ The assets used forthis system have been refernced in their respective folders.
 
 ## Requirements:
 - iffnsBoatsForVRChat https://github.com/iffn/iffnsBoatsForVRChat
+- iffnsMovingMapDisplayForVRChat https://github.com/iffn/iffnsMovingMapDisplayForVRChat
 
 ## Current state:
 - Work in progress
