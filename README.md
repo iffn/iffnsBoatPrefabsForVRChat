@@ -7,5 +7,5 @@
     - CyanPlayerObjectPool: https://github.com/CyanLaser/CyanPlayerObjectPool
   - iffnsInteractionController: https://github.com/iffn/iffnsInteractionController
     - EsskaFOVDetector: https://github.com/Ess-Ka/EsskaFOVDetector
-  - iffnsSmartStationForVRChat: https://github.com/iffn/iffnsSmartStationForVRChatv
+  - iffnsSmartStationForVRChat: https://github.com/iffn/iffnsSmartStationForVRChat
 - iffnsMovingMapDisplayForVRChat: https://github.com/iffn/iffnsMovingMapDisplayForVRChat
